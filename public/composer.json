@@ -1,9 +1,0 @@
-{
-    "name": "hof-university/typo3bootcamp2019-project",
-    "description": "typo3 website for the Hof University boot camp event",
-    "type": "project",
-    "require": {
-        "typo3/minimal": "^9.5"
-    },
-    "license": "GPL-2.0-or-later"
-}
